@@ -1,20 +1,24 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+Birgir þór
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+
+Það gekk nokkuð vel, ég sótti og setti upp Ubuntu þar sem ég notaði VitualBox til þess að opna það.
+mynd1.png 
+mynd2.png
+mynd3.png
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Það tók enga stund að henda upp vim og git, engin vandamál var með það.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+það ágætlega að forka en hinsvegar hægir forritið mikið á tölvunni svo það hefði geta tekið styttri tíma. Átti fyrst erfitt með að forka verkefnið en með því að finna réttar skipanir og gera réttu hlutina tókst það á endanum.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+https://github.com/Birgiro13/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
@@ -22,4 +26,7 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Niðurstaðan var sú að ég notaði Ubutu til þess að leysa verkefnið, 
+Ubutu er flott kerfi að mínu mati.
+Hefði verið fljótgerðara verkefni ef talvan yrði ekki jafn hæg við við 
+gerð verkefnisins.
