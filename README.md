@@ -22,8 +22,9 @@ https://github.com/Birgiro13/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
-
+Firefox, nýir kóðar sem eru settir inná Mozilla source þarf að framfylgja Mozilla spurce code licensing policy, https://developer.moxilla.org/en/docs/Mozilla_Sou
+Openoffice.com, leyft er að breyta og bæta Openoffice.com source code. LGPL krefst þess að allar breytingar verða að vera nothæfar (available) ef þær eru sendar inn. www.openoffice.org/download/source/
+Chromium, það er undir BSD license ásamt öðrum þar á meðal MIT License og LGPL, chomium.org/devlopers/how-tos/get-the-code 
 ## 5. Unnið með Git (2. hluti)
 
 Niðurstaðan var sú að ég notaði Ubutu til þess að leysa verkefnið, 
